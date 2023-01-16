@@ -1,0 +1,60 @@
+site_name: ManualDocente
+site_url: https://aulasvirtuales.udistrital.edu.co/
+#repo_url: https://github.com/example/repository/
+nav:
+    - Inicio: index.md
+    - Soporte:
+        - Solicitudes: soporte/solicitudes.md
+        - Mesa de Ayuda: soporte/mesaayuda.md
+    - Cursos:
+        - Configuracion: cursos/configuracion.md
+        - Grupos: cursos/grupos.md
+        - Matriculacion: cursos/matriculacion.md
+        - Reinicio: cursos/reinicio.md
+        - Copias de seguridad: cursos/copiasseguridad.md
+        - Calificaciones: cursos/calificaciones.md
+    - Recursos:
+        - Archivo: about.md
+        - Carpeta: about.md
+        - Etiqueta: about.md
+        - Libro: about.md
+        - Pagina: about.md
+        - URL: about.md
+        - Asistencia: about.md
+        - Base de datos: about.md
+        - Big Blue Button: about.md
+        - Consulta: about.md
+        - H5P: about.md
+    - Actividades:
+        - Foro: about.md
+        - Encuesta: about.md
+        - Cuestionarios: about.md
+        - Banco de preguntas: about.md
+        - Geogebra: about.md
+        - Glosario: about.md
+        - Herramienta externa: about.md
+        - Hotspot: about.md
+        - Juegos: about.md
+        - Leccion: about.md
+        - SCORM: about.md
+        - Taller: about.md
+        - Tarea: about.md
+        - Wiki: about.md
+    - Informes: about.md
+    - Nosotros:
+        - Planestic: about.md
+        - Udistrital: about.md
+        - Ingenieria: about.md
+        - Mesa de ayuda: about.md
+        - Pregrado: about.md
+        - Posgrado: about.md
+        - EDX: about.md
+        - Campus virtual: about.md
+#theme: readthedocs
+theme:
+    name: material
+    #locale: es
+    language: es
+    logo: img/logo1.png
+    favicon: img/favicon.ico
+    navigation_depth: 3
